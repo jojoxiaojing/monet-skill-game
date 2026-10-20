@@ -2,6 +2,8 @@
 
 一个在浏览器里玩的横版小游戏：穿紫色裙子的小女孩走进莫奈的三幅画，沿路收集发光的罂粟、紫藤和夕光，走到画架前，这次散步就成了一幅画。
 
+**▶ 在线玩：https://jojoxiaojing.github.io/monet-skill-game/**
+
 > **本作由 [huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) skill 生成。**
 > 这个 skill 由花叔（[@alchaincyf](https://github.com/alchaincyf)）开发，用代码画出各种艺术风格的动画。游戏的莫奈画法和「主角从左走到右、穿过一幅幅画」的结构都来自它。
 
