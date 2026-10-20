@@ -1,5 +1,7 @@
 # 莫奈花园散步 · Promenade chez Monet
 
+中文 | [English](README.en.md)
+
 一个在浏览器里玩的横版小游戏：穿紫色裙子的小女孩走进莫奈的三幅画，沿路收集发光的罂粟、紫藤和夕光，走到画架前，这次散步就成了一幅画。
 
 **▶ 在线玩：https://jojoxiaojing.github.io/monet-skill-game/**
